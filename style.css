@@ -1,9 +1,9 @@
 .player-input > *,
 .computer-output,
 .computer-output > * {
-    font-size: 21px;
+    font-size: 25px;
 }
 
 body {
-    background-color: white;
+    background-color: green;
 }
